@@ -16,7 +16,7 @@ library(detectseparation)
 # =========================================================
 # 1. Read data
 # =========================================================
-file_path <- "C:/Users/WeiKitPhang/Documents/UM/Writing/Paper 21 (Gua Musang Preliminary)/Data_processing/factor_analysis.xlsx"
+file_path <- "C:/PATH/TO/DATASET.xlsx"
 
 initial_df <- read_excel(file_path, sheet = "analysis_datasheet")
 
